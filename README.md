@@ -2,7 +2,7 @@
 Meu nome é Guilherme Benjamin, e sou um **programador de sistemas** com foco em **back end**. Tenho uma paixão pela construção de soluções robustas e eficientes que impulsionam o funcionamento de sistemas e aplicativos. No meu tempo livre, gosto de assistir filmes, séries, ouvir podcasts, ler livros e jogar videogame!
 
 ### Sobre Mim
-   - 🎓 Graduado em Sistemas de Informação e Engenharia de Software.
+   - 🎓 Graduando em Sistemas de Informação e Engenharia de Software.
    - 💻 Profissional dedicado e apaixonado por resolver problemas complexos por meio da programação.
    - 🌱 Sempre buscando aprender e me atualizar nas mais recentes tendências do setor de tecnologia.
 
