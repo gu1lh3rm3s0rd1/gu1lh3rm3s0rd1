@@ -3,7 +3,7 @@ Meu nome é Guilherme Benjamin, e sou um **programador de sistemas** com foco em
 
 ### Sobre Mim
    - 🎓 Graduando em Sistemas de Informação e Engenharia de Software.
-   - 💻 Profissional dedicado e apaixonado por resolver problemas complexos por meio da programação.
+   - 💻 Profissional dedicado em resolver problemas complexos por meio da programação.
    - 🌱 Sempre buscando aprender e me atualizar nas mais recentes tendências do setor de tecnologia.
 
 ### Aqui estão algumas das minhas habilidades técnicas:
