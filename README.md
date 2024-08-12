@@ -1,5 +1,5 @@
 # 👋 Olá Mundo! 
-Meu nome é Guilherme Benjamin, e sou um **programador de sistemas** com foco em **back end**. Tenho grande afinidade pela construção de soluções robustas e eficientes para o funcionamento de sistemas e aplicativos. No meu tempo livre, gosto de assistir filmes, séries, ouvir podcasts, ler, jogar e praticar alguns esportes como futebol e corrida de rua!!
+Meu nome é Guilherme Benjamim, e sou um **programador de sistemas** com foco em **back end**. Tenho grande afinidade pela construção de soluções robustas e eficientes para o funcionamento de sistemas e aplicativos. No meu tempo livre, gosto de assistir filmes, séries, ouvir podcasts, ler, jogar e praticar alguns esportes como futebol e corrida de rua!!
 
 ### Sobre Mim
    - 🎓 Graduando em Sistemas de Informação e Engenharia de Software.
