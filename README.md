@@ -10,7 +10,7 @@ Meu nome é Guilherme Benjamim, e sou um **programador de sistemas** com foco em
     - PHP e Python.
     - Frameworks.
     - Banco de dados e SQL.
-    - Ferramentas de virtualização.
+    - Containers.
     - Controle de versão.
     - ETL (Extract, Transform, Load).
 
