@@ -7,12 +7,13 @@ Meu nome é Guilherme Benjamim, e sou um **programador de sistemas** com foco em
    - 🌱 Sempre buscando aprender e me atualizar nas mais recentes tendências do setor de tecnologia.
 
 ### Aqui estão algumas das minhas habilidades técnicas:
-    - PHP e Python.
-    - Frameworks.
-    - Banco de dados e SQL.
-    - Containers.
-    - Controle de versão.
-    - ETL (Extract, Transform, Load).
+   - PHP e Python.
+   - Frameworks.
+   - Containers.
+   - Controle de versão.
+   - Banco de dados e SQL.
+   - Visualização e Modelagem de dados.
+   - ETL (Extract, Transform, Load).
 
 
 ### Contato
